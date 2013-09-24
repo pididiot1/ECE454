@@ -15,7 +15,7 @@ import android.view.View;
 
 public class MainActivity extends Activity {
 
-	private static int nDuration = 3;
+	private static int nDuration = 1;
 	private static double dFreqOfTone = 20000;
 	private static int nSampleRate = 44100;
 	private static int nNumSamples = nDuration * nSampleRate;
